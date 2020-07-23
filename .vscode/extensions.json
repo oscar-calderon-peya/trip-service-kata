@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ms-vsliveshare.vsliveshare-pack",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven"
+  ]
+}
